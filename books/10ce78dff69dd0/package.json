@@ -1,0 +1,9 @@
+{
+  "name": "zenn-docs",
+  "description": "https://zenn.dev/zenn",
+  "author": "Eak Netpanya <eak.netpanya@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "latest"
+  }
+}
